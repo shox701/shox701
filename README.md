@@ -8,7 +8,10 @@ My goal is to become a skilled Frontend Developer and create creative and user-f
  Currently, I'm focused on mastering the following technologies:
 - ***HTML***
 - ***CSS***
+- ***Scss***
+- ***Bootstrap***
 - ***JavaScript***
+- ***React***
 
 ## **Future Goals 🎯**
 

@@ -3,22 +3,38 @@
 My name is **Shoxrux**, and I'm currently actively learning **HTML, CSS**, and **JavaScript**.
 My goal is to become a skilled Frontend Developer and create creative and user-friendly web applications.
 
-## **Learning Journey 📚**
+Welcome to Shoxrux profile! 
 
- Currently, I'm focused on mastering the following technologies:
-- ***HTML***
-- ***CSS***
-- ***Scss***
-- ***Bootstrap***
-- ***JavaScript***
-- ***React***
 
-## **Future Goals 🎯**
+🙋‍♂️ Connect with me
+Github telelgram
 
-- ***Dive deeper into modern frontend frameworks***
-- ***Develop responsive and stylish web applications***
-- ***Contribute to open-source projects***
+📊 Github stats
+shox701 Github Stats shox701 Top Languages
+
+🛠️ My favorite tools
+👨‍💻 Programming Languages
+js
+
+🧰 Frameworks and libraries
+react express MVC ejs
+
+☁ Cloud hosting
+vercel netlify Heroku
+
+a>
+
+💻 Software and tools
+GIT Vsual Studio Postman NGINX    
+
+💻 My favorite operating systems
+Windows Linux
+
+Snake animation
+
+### Snake game
 
 ## **Seeking Knowledge and Collaboration 💡**
 
 > Always open to new ideas, technologies, and ready to collaborate with fellow web development enthusiasts. Let's build the future of the web together! 💻✨
+
